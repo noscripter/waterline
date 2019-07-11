@@ -30,7 +30,7 @@
     "lodash.issafeinteger": "4.0.4",
     "parley": "^2.2.0",
     "rttc": "^10.0.0-1",
-    "switchback": "2.0.1",
+    "switchback": "2.0.4",
     "waterline-schema": "^1.0.0-5",
     "waterline-utils": "^1.3.4"
   },
